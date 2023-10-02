@@ -1,6 +1,6 @@
-# LED Clock WinForms Project
+# LED Clock Request Logger
 
-Welcome to the LED Clock WinForms project! This application allows users to customize and order LED clocks tailored to their preferences.
+Welcome to the LED Clock WinForms project! This is a WinForms application to I developed to manage client request of customised LED clocks I design. Feel free to customize this project for similar use cases.
 
 ## Table of Contents
 - [Features](#features)
